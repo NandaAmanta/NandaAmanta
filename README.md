@@ -1,5 +1,5 @@
 ### Hi there , my name is I Putu Nanda Amanta👋
--🔭 I’m currently working on Global Logistic Express.
+-🔭 I’m currently working on Global Logistic Express.__
 -🌱 I’m currently learning Java , Micronaut , Spring , NodeJS , Express
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NandaAmanta&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
