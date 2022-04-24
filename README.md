@@ -1,7 +1,7 @@
 ### Hi There👋
-  -😄 My name is I Putu Nanda Amanta or you can just call me Nanda or Amanta.
+  -😄 My name is I Putu Nanda Amanta or you can just call me Nanda or Amanta. <br/>
   -🔭 I’m currently working on Global Logistic Express as Backend Software Engineer.<br/>
-  -🌱 I’m currently learning Java , Micronaut , Spring , NodeJS , Express , GO.
+  -🌱 I’m currently learning Java , Micronaut , Spring , NodeJS , Express , GO. <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NandaAmanta&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
